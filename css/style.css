@@ -1036,10 +1036,10 @@ header .search-bar-container label:hover {
     .main img {
         height: 100%;
     }
-
+/* 
     .nouvil {
         font-size: 70px !important;
-    }
+    } */
 }
 
 
@@ -1052,9 +1052,9 @@ header .search-bar-container label:hover {
     header{
         padding:1rem 2rem;
     }
-    .nouvil {
+    /* .nouvil {
         font-size: 120px !important;
-    }
+    } */
 
     .mb-0, .my-0 {
         color: black;
@@ -1135,9 +1135,9 @@ header .search-bar-container label:hover {
     .mb-0, .my-0 {
         color: black;
     }
-    .nouvil {
+    /* .nouvil {
         font-size: 90px !important;
-    }
+    } */
 
 }
 
@@ -1153,9 +1153,9 @@ header .search-bar-container label:hover {
         top: 0;
     }
 
-    .nouvil {
+    /* .nouvil {
         font-size: 63px !important;
-    }
+    } */
 
     .card {
         height: 211px;
@@ -1297,9 +1297,9 @@ header .search-bar-container label:hover {
         font-size: 3.5rem;
     }
 
-    .nouvil {
+    /* .nouvil {
         font-size: 57px !important;
-    }
+    } */
 }
 
 
